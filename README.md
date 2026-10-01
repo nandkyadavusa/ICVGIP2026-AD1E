@@ -1,4 +1,4 @@
-# GLaMur: A Gated Linear Attentive Multiscale Residual U-Net for 3D Medical Image Segmentation
+# SEMix3D: Statistical-Energy Multiscale Mixing for Efficient 3D Medical Image Segmentation
 
 ## Network Design
 ![GLaMur Network](GLaMur.png)
