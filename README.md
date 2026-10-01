@@ -1,7 +1,7 @@
 # SEMix3D: Statistical-Energy Multiscale Mixing for Efficient 3D Medical Image Segmentation
 
 ## Network Design
-![GLaMur Network](GLaMur.png)
+![SEMix3D Network](semix.png)
 
 
 
